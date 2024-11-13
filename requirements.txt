@@ -1,0 +1,15 @@
+SpeechRecognition
+pyttsx3
+requests
+openai
+gTTS
+pygame
+wikipedia
+tk
+pyaudio
+setuptools
+pywhatkit
+#random
+#webbrowser
+#os
+#datetime
